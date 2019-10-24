@@ -2,7 +2,7 @@ dist: trusty
 
 addons:
   sonarcloud:
-    organization: "sofrecom"
+    organization: "leila-devrap"
     token:
       secure: "9c3fcfdd6e60f2cb1fcc378aa25829379fdc276e" # encrypted value of your token
 
